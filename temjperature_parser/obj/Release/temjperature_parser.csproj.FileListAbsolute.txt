@@ -1,0 +1,12 @@
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\temjperature_parser\temjperature_parser\bin\Release\temjperature_parser.exe.config
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\temjperature_parser\temjperature_parser\bin\Release\temjperature_parser.exe
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\temjperature_parser\temjperature_parser\bin\Release\temjperature_parser.pdb
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\temjperature_parser\temjperature_parser\bin\Release\HtmlAgilityPack.dll
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\temjperature_parser\temjperature_parser\bin\Release\MySql.Data.dll
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\temjperature_parser\temjperature_parser\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\temjperature_parser\temjperature_parser\bin\Release\HtmlAgilityPack.xml
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\temjperature_parser\temjperature_parser\bin\Release\MySql.Data.xml
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\temjperature_parser\temjperature_parser\obj\Release\temjperature_parser.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\temjperature_parser\temjperature_parser\obj\Release\temjperature_parser.exe
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\temjperature_parser\temjperature_parser\obj\Release\temjperature_parser.pdb
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\temjperature_parser\temjperature_parser\obj\Release\temjperature_parser.csprojResolveAssemblyReference.cache
